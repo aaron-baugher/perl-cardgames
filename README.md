@@ -18,3 +18,6 @@ Wins are very rare.  This program tries up to 200 full deals, then gives up,
 because deals often reach a point where cards are just shifting back and
 forth between two piles without ever changing anything, and the game is
 stuck.  It might be useful to add some code to detect that.
+
+Very much still a work in progress.
+
