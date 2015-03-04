@@ -1,0 +1,7 @@
+#!/usr/bin/env perl
+use 5.010; use strict; use warnings;
+
+use Card::Game::Patience;
+my $game = Card::Game::Patience->new;
+$game->play;
+
